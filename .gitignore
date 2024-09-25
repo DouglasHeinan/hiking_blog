@@ -1,0 +1,5 @@
+.idea
+__pycache__
+hiking_blog/admin/static
+hiking_blog/home/static
+*.db
